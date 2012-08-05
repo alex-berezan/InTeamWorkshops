@@ -33,3 +33,6 @@ _ReSharper*/
 
 #Ignore Database file
 *.dbmdl
+
+#ASP.NET "App_Data" folder
+App_Data/
